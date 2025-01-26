@@ -4,3 +4,5 @@ CodeClause_Url_Shortner A solution to convert lengthy URL's into short URL's des
 Library used This solution is made using an open source Python Library - pyshortners Install: python3 -m pip install pyshorteners
 
 RUN: python3 urlShortener.py
+
+--- CodeClause Internship ---
